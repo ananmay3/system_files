@@ -1,0 +1,2 @@
+xinput set-prop 14 301 -30, -30
+xinput set-prop 14 304 2, 8, 0.13, 0
