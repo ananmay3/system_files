@@ -1,0 +1,50 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-shortcuts/versions/0.0.2/tarball",
+  "_id": "atom-shortcuts@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-iKThyjZL/Z/VWqmylzJxNo1CzQuUP4T0sICcLW5hHLQuwRzOLrx59RgdaXxpQfzSH96quztkT1mUq5AFPph9SQ==",
+  "_location": "/atom-shortcuts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-shortcuts/versions/0.0.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-shortcuts/versions/0.0.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-shortcuts/versions/0.0.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-shortcuts/versions/0.0.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-shortcuts/versions/0.0.2/tarball",
+  "_shasum": "4b48626c13bf02dc9e460f85552389f7250c1b91",
+  "_spec": "https://www.atom.io/api/packages/atom-shortcuts/versions/0.0.2/tarball",
+  "_where": "/tmp/apm-install-dir-119420-18779-k17z54.unuqc",
+  "bugs": {
+    "url": "https://github.com/olegberman/atom-shortcuts/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Helps you learn Atom's shortcuts, hit ctrl + ` to see a shortcut cheatsheet.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/olegberman/atom-shortcuts#readme",
+  "keywords": [
+    "shortcuts",
+    "shortcut",
+    "cheatsheet",
+    "productivity",
+    "atom-shortcuts",
+    "hotkey"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-shortcuts",
+  "name": "atom-shortcuts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegberman/atom-shortcuts.git"
+  },
+  "version": "0.0.2"
+}

@@ -1,0 +1,22 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "enter"
+    useCoreMovementCommands: false
+  core:
+    autoHideMenuBar: true
+    destroyEmptyPanes: false
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 13
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "c6726c0b-77a1-419d-bacf-1a3252ff0132"
+  "ftp-remote-edit":
+    config: "b2f644003d6ecdf254be2d1b2ab308e21f4da21c9f959d6d743cb80d27d4644ffe47229a7783200ae6a1a979168803b55c3fc039d08aae0939ff65cd4784a46448fd5a05a03231a51146a8b9237c8247979534464028a4b82f33d970177eef0bad03035e27b46e00edd308d5e3725f7e429e4366cfa0685c33404cef72ed0641b7c50b60085889f1083c027cd693dea297d993aa3151fb0f914450c809d13f71a43a93d3ff979b5be665fbe0d8b0c8d9d87761e9b8a23e3d1a5e3472d946c76248aae69f7d5484a6de962ebf050a97a041f5402f11c42d2f9cb30edfbc465a56768f36b44078d0b16b78f887cd3f935d4e880042c20d080e8490688491454c975319ab8036f5b937b63fb96b254b5ba36b1bd4a94b78bd8d0d3034e55bbfe4e529aac5be61af30ae0507fe857487b6da81e46eaec3f2ee069cba"
+    password: "88be03577c2985bc"
+  tabs:
+    enableMruTabSwitching: false
+  "vim-mode-plus": {}
+  welcome:
+    showOnStartup: false
