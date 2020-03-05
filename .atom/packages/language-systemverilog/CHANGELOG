@@ -1,0 +1,40 @@
+v 0.12.2
+  - Hopefully fully resolved Tharaqon's issue (see v 0.11.0): "Syntax Highlighting bug related to typedef of multidimensional arrays" https://github.com/pistoletpierre/language-systemverilog/issues/3
+
+v 0.12.1
+  - Fixed changelog again (published a "minor" rather than a "patch", bumping it up to 0.12.0 rather than the intended 0.11.1)
+
+v 0.12.0
+  - Fixed the v 0.11.0 line in the changelog
+
+v 0.11.0
+  - Resolved Tharaqon's issue: "Syntax Highlighting bug related to typedef of multidimensional arrays" https://github.com/pistoletpierre/language-systemverilog/issues/3
+
+v 0.10.0
+  - Resolved KoenGoe's issue: "decreaseIndentPattern does not use \b before end-like keywords" https://github.com/pistoletpierre/language-systemverilog/issues/2
+
+v 0.9.0
+  - Messed up the update process previously and got the wrong version number in the changelog as a result. This should restore it.
+
+v 0.8.0
+  - Resolved jgancedo's issue: "Label of a cover directive not highlighted" https://github.com/pistoletpierre/language-systemverilog/issues/1
+
+v 0.6.0
+  - fixed settings/langugage-systemverilog.cson
+
+v 0.5.0
+  - fixed README
+
+v 0.4.0
+  - Updated README
+  - catching up with apm's version number (I was lagging 0.1.0 behind)
+  - jfrogget's indentation increase/decrease settings in settings/langugage-systemverilog.cson added
+
+v 0.2.0
+  - Added Sublime's SystemVerilog grammar converted by jfrogget (https://github.com/Razer6/language-verilog/pull/13)
+  - Re-added .v and .vh extensions
+  - Added some of sabertazimi's snippets (https://github.com/Razer6/language-verilog/pull/20 - only the ones that weren't already accounted for by jfrogget's pull request)
+  - I think jfrogget's pull request changes take care of https://github.com/Razer6/language-verilog/pull/24 as well
+
+v 0.1.0
+  - Initial clone from language-verilog repository (v 0.5.0)

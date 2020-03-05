@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/language-arduino/versions/0.4.3/tarball",
+  "_id": "language-arduino@0.4.3",
+  "_inBundle": false,
+  "_integrity": "sha512-4/ZzOwPhgjzhQlV9SUgguaAK19q1oegNk8ZQTdFHtybtHRnwEgwT57sRjxiZhZ+AeN0tsG0eCFqviDLymzzLrA==",
+  "_location": "/language-arduino",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/language-arduino/versions/0.4.3/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/language-arduino/versions/0.4.3/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/language-arduino/versions/0.4.3/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/language-arduino/versions/0.4.3/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/language-arduino/versions/0.4.3/tarball",
+  "_shasum": "fc9608e0c89894ca04889bd64da12071f6f67f76",
+  "_spec": "https://www.atom.io/api/packages/language-arduino/versions/0.4.3/tarball",
+  "_where": "/tmp/apm-install-dir-12012-19857-1lle82l.hiyli",
+  "bugs": {
+    "url": "https://github.com/szechyjs/language-arduino/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Atom language support for Arduino",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/szechyjs/language-arduino#readme",
+  "license": "MIT",
+  "name": "language-arduino",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szechyjs/language-arduino.git"
+  },
+  "version": "0.4.3"
+}

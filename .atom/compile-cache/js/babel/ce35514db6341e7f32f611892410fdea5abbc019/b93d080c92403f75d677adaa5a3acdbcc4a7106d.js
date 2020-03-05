@@ -1,0 +1,14 @@
+Object.defineProperty(exports, "__esModule", {
+	value: true
+});
+/** @babel */
+
+exports["default"] = function (toolBar, button) {
+	var options = {
+		priority: button.priority || 45
+	};
+	return toolBar.addSpacer(options);
+};
+
+module.exports = exports["default"];
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2FuYW5tYXkzLy5hdG9tL3BhY2thZ2VzL2ZsZXgtdG9vbC1iYXIvbGliL3R5cGVzL3NwYWNlci5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7OztxQkFFZSxVQUFVLE9BQU8sRUFBRSxNQUFNLEVBQUU7QUFDekMsS0FBTSxPQUFPLEdBQUc7QUFDZixVQUFRLEVBQUUsTUFBTSxDQUFDLFFBQVEsSUFBSSxFQUFFO0VBQy9CLENBQUM7QUFDRixRQUFPLE9BQU8sQ0FBQyxTQUFTLENBQUMsT0FBTyxDQUFDLENBQUM7Q0FDbEMiLCJmaWxlIjoiL2hvbWUvYW5hbm1heTMvLmF0b20vcGFja2FnZXMvZmxleC10b29sLWJhci9saWIvdHlwZXMvc3BhY2VyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLyoqIEBiYWJlbCAqL1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiAodG9vbEJhciwgYnV0dG9uKSB7XG5cdGNvbnN0IG9wdGlvbnMgPSB7XG5cdFx0cHJpb3JpdHk6IGJ1dHRvbi5wcmlvcml0eSB8fCA0NSxcblx0fTtcblx0cmV0dXJuIHRvb2xCYXIuYWRkU3BhY2VyKG9wdGlvbnMpO1xufVxuIl19

@@ -1,0 +1,45 @@
+{
+  "_from": "https://www.atom.io/api/packages/visual-studio-dark-syntax/versions/0.2.0/tarball",
+  "_id": "visual-studio-dark-syntax@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-1OhAej8pkSe4SCbejYMkadyc21zD7GwXZ6lhuZZTtalVc5g7WPl9ExsBn/p0Yvzt8mGXAi6dxIZGtXdm9DWSsw==",
+  "_location": "/visual-studio-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/visual-studio-dark-syntax/versions/0.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/visual-studio-dark-syntax/versions/0.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/visual-studio-dark-syntax/versions/0.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/visual-studio-dark-syntax/versions/0.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/visual-studio-dark-syntax/versions/0.2.0/tarball",
+  "_shasum": "fdac479fcf32e689f4901f361bd3fed2a3ea0643",
+  "_spec": "https://www.atom.io/api/packages/visual-studio-dark-syntax/versions/0.2.0/tarball",
+  "_where": "/tmp/apm-install-dir-119810-27232-10d1ndv.7fa2",
+  "bugs": {
+    "url": "https://github.com/Kromi75/visual-studio-dark-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Mimics the dark theme of Visual Studio 2015",
+  "engines": {
+    "atom": ">=1.13.0"
+  },
+  "homepage": "https://github.com/Kromi75/visual-studio-dark-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "visual-studio-dark-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kromi75/visual-studio-dark-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.2.0"
+}

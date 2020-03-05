@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/language-x86/versions/1.0.1/tarball",
+  "_id": "language-x86@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-MtXCZEfnGU7jXxIT7rc9eZ8T1xpC5KSG0EZr4MV9mMI/pr6c6628tQalGJa8POVkG74uTBcmi58+AtPR1V09IA==",
+  "_location": "/language-x86",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/language-x86/versions/1.0.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/language-x86/versions/1.0.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/language-x86/versions/1.0.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/language-x86/versions/1.0.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/language-x86/versions/1.0.1/tarball",
+  "_shasum": "ec2819a9a2dbf089e3042d53a3cfa9beba1898e9",
+  "_spec": "https://www.atom.io/api/packages/language-x86/versions/1.0.1/tarball",
+  "_where": "/tmp/apm-install-dir-119811-5032-11ga77i.xp3z",
+  "bugs": {
+    "url": "https://github.com/taylorlapeyre/language-x86/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Adds language support for x86 Assembly",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/taylorlapeyre/language-x86#readme",
+  "license": "MIT",
+  "name": "language-x86",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorlapeyre/language-x86.git"
+  },
+  "version": "1.0.1"
+}

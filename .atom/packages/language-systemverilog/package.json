@@ -1,0 +1,41 @@
+{
+  "_from": "https://www.atom.io/api/packages/language-systemverilog/versions/0.12.2/tarball",
+  "_id": "language-systemverilog@0.12.2",
+  "_inBundle": false,
+  "_integrity": "sha512-hJuLKJ8qOAvHih7+ae9Sg7ySdMl+7xLR7jrsl9YxmyTSnOexQfUDaVytzAuHfrX+fm5Ncj98EKmJpjX/jdWY5w==",
+  "_location": "/language-systemverilog",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/language-systemverilog/versions/0.12.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/language-systemverilog/versions/0.12.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/language-systemverilog/versions/0.12.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/language-systemverilog/versions/0.12.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/language-systemverilog/versions/0.12.2/tarball",
+  "_shasum": "8ec1b864e0b68d41987aa4b026e429ed4f6724bc",
+  "_spec": "https://www.atom.io/api/packages/language-systemverilog/versions/0.12.2/tarball",
+  "_where": "/tmp/apm-install-dir-120112-14454-j2g64z.zvwa",
+  "bugs": {
+    "url": "https://github.com/pistoletpierre/language-systemverilog/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "SystemVerilog language support in Atom",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/pistoletpierre/language-systemverilog#readme",
+  "license": "MIT",
+  "name": "language-systemverilog",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pistoletpierre/language-systemverilog.git"
+  },
+  "version": "0.12.2"
+}

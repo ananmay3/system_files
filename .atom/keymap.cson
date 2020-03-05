@@ -8,3 +8,10 @@
   'pagedown': 'autocomplete-plus:page-down'
   'home': 'autocomplete-plus:move-to-top'
   'end': 'autocomplete-plus:move-to-bottom'
+  'cmd-alt left': 'window:focus-pane-on-left'
+  'cmd-alt right': 'window:focus-pane-on-right'
+  'cmd-alt up': 'window:focus-pane-above'
+  'cmd-alt down': 'window:focus-pane-below'
+  'cmd-alt-2': 'pane:split-right'
+  'cmd-alt-3': 'pane:split-down'
+

@@ -1,0 +1,123 @@
+{
+  "_from": "https://www.atom.io/api/packages/linter-clang/versions/4.1.2/tarball",
+  "_id": "linter-clang@4.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Nok6oztgpD+hMpTGXs07HwDBxCbP4XrugPArBRO4jXxcEQkw1/5ou/KO6C0Jwjl7CWlCz97Y8Ui0YMyldj7S5g==",
+  "_location": "/linter-clang",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/linter-clang/versions/4.1.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/linter-clang/versions/4.1.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/linter-clang/versions/4.1.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/linter-clang/versions/4.1.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/linter-clang/versions/4.1.2/tarball",
+  "_shasum": "92c7b37702c19190fc2adb4fcd82c926a7efbb05",
+  "_spec": "https://www.atom.io/api/packages/linter-clang/versions/4.1.2/tarball",
+  "_where": "/tmp/apm-install-dir-11986-20709-1brbsgg.r9yr",
+  "bugs": {
+    "url": "https://github.com/AtomLinter/linter-clang/issues"
+  },
+  "bundleDependencies": false,
+  "configSchema": {
+    "executablePath": {
+      "type": "string",
+      "default": "clang"
+    },
+    "clangIncludePaths": {
+      "type": "array",
+      "default": [
+        "."
+      ]
+    },
+    "clangSuppressWarnings": {
+      "type": "boolean",
+      "default": false
+    },
+    "clangDefaultCFlags": {
+      "type": "string",
+      "default": "-Wall"
+    },
+    "clangDefaultCppFlags": {
+      "type": "string",
+      "default": "-Wall -std=c++11"
+    },
+    "clangDefaultObjCFlags": {
+      "type": "string",
+      "default": ""
+    },
+    "clangDefaultObjCppFlags": {
+      "type": "string",
+      "default": ""
+    },
+    "clangErrorLimit": {
+      "type": "integer",
+      "default": 0
+    }
+  },
+  "dependencies": {
+    "atom-linter": "^10.0.0",
+    "atom-package-deps": "^4.5.0",
+    "clang-flags": "^0.2.2"
+  },
+  "deprecated": false,
+  "description": "Lint C-based files using clang",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb-base": "^11.1.2",
+    "eslint-plugin-import": "^2.2.0",
+    "jasmine-fix": "^1.0.1"
+  },
+  "engines": {
+    "atom": ">=1.4.0 <2.0.0"
+  },
+  "eslintConfig": {
+    "extends": "airbnb-base",
+    "rules": {
+      "global-require": "off",
+      "import/no-unresolved": [
+        "error",
+        {
+          "ignore": [
+            "atom"
+          ]
+        }
+      ]
+    },
+    "globals": {
+      "atom": true
+    },
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  },
+  "homepage": "https://github.com/AtomLinter/linter-clang#readme",
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "linter-clang",
+  "package-deps": [
+    "linter:2.0.0"
+  ],
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "2.0.0": "provideLinter"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomLinter/linter-clang.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "apm test"
+  },
+  "version": "4.1.2"
+}
