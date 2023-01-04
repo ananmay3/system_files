@@ -38,7 +38,7 @@
     "cson": "^5.1.0",
     "fs-plus": "^3.1.1",
     "glob-to-regexp": "0.4.1",
-    "json5": "^2.1.0"
+    "json5": "^2.2.2"
   },
   "deprecated": false,
   "description": "Easily Customizable ToolBar for Atom",
